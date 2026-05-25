@@ -1,0 +1,6 @@
+{
+  "name": "8-Bit Algorithmic Composer",
+  "description": "An interactive, real-time 8-bit algorithmic music synthesizer and visualizer. Generate structured phrases or improvisations, configure chord progressions, synthesize retro chiptunes, and optionally sync with Ardour MCP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
